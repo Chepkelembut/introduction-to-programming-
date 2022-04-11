@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Gabriel Karani");
+    printf("Ronald Kiprop");
     return 0;
 }
